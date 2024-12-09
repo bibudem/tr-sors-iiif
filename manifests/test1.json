@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/test1/manifest.json",
+  "id": "https://bibudem.github.io/tresors-iiif/manifests/test1.json",
   "type": "Manifest",
   "label": {
     "fr": [
