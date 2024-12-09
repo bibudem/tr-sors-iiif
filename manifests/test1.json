@@ -1,0 +1,54 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/test1/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "fr": [
+      "Trésors - Test 1"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/test1/canvas/p017",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 017"
+        ]
+      },
+      "height": 2279,
+      "width": 3905,
+      "items": [
+        {
+            "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/test1/p017/1",
+            "type": "AnnotationPage",
+            "items": [
+            {
+              "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/test1/annotation/p017-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/50335781_p017/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2279,
+                "width": 3905,
+                "service": [
+                  {
+                    "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/50335781_p017",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
