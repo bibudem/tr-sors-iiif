@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bibudem.github.io/tresors-iiif/manifests/233681247.json",
+  "type": "Manifest",
+  "label": {
+    "fr": [
+      "233681247"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://bibudem.github.io/tresors-iiif/manifests/233681247/canvas/p001",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Page 001"
+        ]
+      },
+      "height": 3625,
+      "width": 5146,
+      "items": [
+        {
+          "id": "https://bibudem.github.io/tresors-iiif/manifests/233681247/page/p001/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bibudem.github.io/tresors-iiif/manifests/233681247/annotation/p001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/233681247_p001/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 3625,
+                "width": 5146,
+                "service": [
+                  {
+                    "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/233681247_p001",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://bibudem.github.io/tresors-iiif/manifests/233681247/canvas/p001"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
