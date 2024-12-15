@@ -7,6 +7,62 @@
       "50335781"
     ]
   },
+  "metadata": [
+      {
+          "label": { "fr": [ "Auteur" ] },
+          "value": { "fr": [ "Merian, Matthaeus" ] }
+      },
+      {
+          "label": { "fr": [ "Titre" ] },
+          "value": { "fr": [ "Recueil de trois cents [sic] trente estampes représentant les principaux évènements de l'histoire ancienne et moderne, sacrée et profane" ] }
+      },
+      {
+          "label": { "fr": [ "Date de publication" ] },
+          "value": { "fr": [ "1788" ] }
+      },
+      {
+          "label": { "fr": [ "Collection" ] },
+          "value": { "fr": [ "Collection Philippe-Alexandre-Rey-Herme" ] }
+      },
+      {
+          "label": { "fr": [ "Localisation" ] },
+          "value": { "fr": [ "BLCS-Collection Rey-Herme RES-RH - Consultation sur place" ] }
+      },
+      {
+          "label": { "fr": [ "Cote" ] },
+          "value": { "fr": [ "REYHERME 5800" ] }
+      }
+  ],
+  "provider": [
+      {
+          "id": "https://bib.umontreal.ca",
+          "type": "Agent",
+          "label": { "fr": [ "Les bibliothèques de l'Université de Montréal" ] },
+          "homepage": [
+              {
+                  "id": "https://bib.umontreal.ca",
+                  "type": "Text",
+                  "label": { "fr": [ "Site web" ] },
+                  "format": "text/html"
+              }
+          ],
+          "logo": [
+              {
+                  "id": "https://www.bib.umontreal.ca/publications/rapport-annuel-2023-2024/images/Sceau_logo-Biblio_UdeM-RVB.svg",
+                  "type": "Image",
+                  "format": "image/svg+xml"
+              }
+          ]
+      }
+  ],
+  "requiredStatement": {
+      "label": {
+          "fr": [ "Droits" ]
+      },
+      "value": {
+          "fr": [ "<span>Domaine public, avec citation obligatoire.</span>" ]
+      }
+  },
   "items": [
     {
       "id": "https://bibudem.github.io/tresors-iiif/manifests/50335781/canvas/p001",
