@@ -2,10 +2,68 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://bibudem.github.io/tresors-iiif/manifests/869511130.json",
   "type": "Manifest",
-  "label": {
-    "fr": [
-      "869511130"
-    ]
+  "label": { "fr":
+      [ "Historiæ canadensis […]" ] },
+  "behavior":  [ "paged" ],
+  "metadata": [
+      {
+          "label": { "fr": [ "Auteur" ] },
+          "value": { "fr": [ "Du Creux, François" ] }
+      },
+      {
+          "label": { "fr": [ "Titre" ] },
+          "value": { "fr": [ "Historiæ canadensis : sev Novæ-Franciæ libri decem, ad annum vsque Christi MDCLVI" ] }
+      },
+      {
+          "label": { "fr": [ "Éditeur" ] },
+          "value": { "fr": [ "Apud Sebastianvm Cramoisy, et Sebast. Mabre-Cramoisy, typographos regis, viâ lacobæâ, sub Ciconijs" ] }
+      },
+      {
+          "label": { "fr": [ "Date de publication" ] },
+          "value": { "fr": [ "1664" ] }
+      },
+      {
+          "label": { "fr": [ "Collection" ] },
+          "value": { "fr": [ "Collection Louis-François-Georges-Baby" ] }
+      },
+      {
+          "label": { "fr": [ "Localisation" ] },
+          "value": { "fr": [ "BLCS - Collection Baby RES-B - Consultation sur place" ] }
+      },
+      {
+          "label": { "fr": [ "Cote" ] },
+          "value": { "fr": [ "BAc0236" ] }
+      }
+  ],
+  "provider": [
+      {
+          "id": "https://bib.umontreal.ca",
+          "type": "Agent",
+          "label": { "fr": [ "Les bibliothèques de l'Université de Montréal" ] },
+          "homepage": [
+              {
+                  "id": "https://bib.umontreal.ca",
+                  "type": "Text",
+                  "label": { "fr": [ "Site web" ] },
+                  "format": "text/html"
+              }
+          ],
+          "logo": [
+              {
+                  "id": "https://www.bib.umontreal.ca/publications/rapport-annuel-2023-2024/images/Sceau_logo-Biblio_UdeM-RVB.svg",
+                  "type": "Image",
+                  "format": "image/svg+xml"
+              }
+          ]
+      }
+  ],
+  "requiredStatement": {
+      "label": {
+          "fr": [ "Droits" ]
+      },
+      "value": {
+          "fr": [ "<span>Domaine public, avec citation obligatoire.</span>" ]
+      }
   },
   "items": [
     {

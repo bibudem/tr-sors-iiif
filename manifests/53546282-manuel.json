@@ -1,38 +1,34 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://bibudem.github.io/tresors-iiif/manifests/.json",
+    "id": "https://bibudem.github.io/tresors-iiif/manifests/53546282.json",
     "type": "Manifest",
     "label": { "fr":
-        [ "" ] },
+        [ "De consolatione philosophiae" ] },
     "behavior":  [ "paged" ],
     "metadata": [
         {
             "label": { "fr": [ "Auteur" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Boèce" ] }
         },
         {
             "label": { "fr": [ "Titre" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "De consolatione philosophiae" ] }
         },
         {
             "label": { "fr": [ "Éditeur" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Iohannè Grüninger" ] }
         },
         {
             "label": { "fr": [ "Date de publication" ] },
-            "value": { "fr": [ "" ] }
-        },
-        {
-            "label": { "fr": [ "Collection" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "1501" ] }
         },
         {
             "label": { "fr": [ "Localisation" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "BLCS - Imprimés 16e siècle SZB SEM-A - Consultation sur place" ] }
         },
         {
             "label": { "fr": [ "Cote" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "186 B669d 1501" ] }
         }
     ],
     "provider": [

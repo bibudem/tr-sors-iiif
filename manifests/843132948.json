@@ -2,10 +2,64 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://bibudem.github.io/tresors-iiif/manifests/843132948.json",
   "type": "Manifest",
-  "label": {
-    "fr": [
-      "843132948"
-    ]
+  "label": { "fr":
+      [ "[Livre d'heures: Hore dive Virginis Marie]" ] },
+  "behavior":  [ "paged" ],
+  "metadata": [
+      {
+          "label": { "fr": [ "Auteur" ] },
+          "value": { "fr": [ "Église catholique" ] }
+      },
+      {
+          "label": { "fr": [ "Titre" ] },
+          "value": { "fr": [ "Hore dive Virginis Marie secundum usum Romanum : cum aliis multis folio sequenti notatis, una cum figuris Apocalipsis & multis figuris Biblie insertis " ] }
+      },
+      {
+          "label": { "fr": [ "Éditeur" ] },
+          "value": { "fr": [ "Gilles et Germain Hardouyn" ] }
+      },
+      {
+          "label": { "fr": [ "Date de publication" ] },
+          "value": { "fr": [ "1514" ] }
+      },
+      {
+          "label": { "fr": [ "Localisation" ] },
+          "value": { "fr": [ "BLCS - Imprimés 16e siècle SZB SEM-A - Consultation sur place" ] }
+      },
+      {
+          "label": { "fr": [ "Cote" ] },
+          "value": { "fr": [ "BX 2080 E35 1514" ] }
+      }
+  ],
+  "provider": [
+      {
+          "id": "https://bib.umontreal.ca",
+          "type": "Agent",
+          "label": { "fr": [ "Les bibliothèques de l'Université de Montréal" ] },
+          "homepage": [
+              {
+                  "id": "https://bib.umontreal.ca",
+                  "type": "Text",
+                  "label": { "fr": [ "Site web" ] },
+                  "format": "text/html"
+              }
+          ],
+          "logo": [
+              {
+                  "id": "https://www.bib.umontreal.ca/publications/rapport-annuel-2023-2024/images/Sceau_logo-Biblio_UdeM-RVB.svg",
+                  "type": "Image",
+                  "format": "image/svg+xml"
+              }
+          ]
+      }
+  ],
+  "requiredStatement": {
+      "label": {
+          "fr": [ "Droits" ]
+      },
+      "value": {
+          "fr": [ "<span>Domaine public, avec citation obligatoire.</span>" ]
+      }
   },
   "items": [
     {

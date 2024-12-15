@@ -2,10 +2,68 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://bibudem.github.io/tresors-iiif/manifests/868922766.json",
   "type": "Manifest",
-  "label": {
-    "fr": [
-      "868922766"
-    ]
+  "label": { "fr":
+      [ "Traité élémentaire de physique" ] },
+  "behavior":  [ "paged" ],
+  "metadata": [
+      {
+          "label": { "fr": [ "Auteur" ] },
+          "value": { "fr": [ "Gariépy, Jacob" ] }
+      },
+      {
+          "label": { "fr": [ "Titre" ] },
+          "value": { "fr": [ "Traité élémentaire de physique" ] }
+      },
+      {
+          "label": { "fr": [ "Éditeur" ] },
+          "value": { "fr": [ "L'Auteur" ] }
+      },
+      {
+          "label": { "fr": [ "Date de publication" ] },
+          "value": { "fr": [ "1839" ] }
+      },
+      {
+          "label": { "fr": [ "Collection" ] },
+          "value": { "fr": [ "Collection Léon-Lortie" ] }
+      },
+      {
+          "label": { "fr": [ "Localisation" ] },
+          "value": { "fr": [ "BLCS - Manuscrits MAB SEM-B - Consultation sur place" ] }
+      },
+      {
+          "label": { "fr": [ "Cote" ] },
+          "value": { "fr": [ "QC 21 G37 1839" ] }
+      }
+  ],
+  "provider": [
+      {
+          "id": "https://bib.umontreal.ca",
+          "type": "Agent",
+          "label": { "fr": [ "Les bibliothèques de l'Université de Montréal" ] },
+          "homepage": [
+              {
+                  "id": "https://bib.umontreal.ca",
+                  "type": "Text",
+                  "label": { "fr": [ "Site web" ] },
+                  "format": "text/html"
+              }
+          ],
+          "logo": [
+              {
+                  "id": "https://www.bib.umontreal.ca/publications/rapport-annuel-2023-2024/images/Sceau_logo-Biblio_UdeM-RVB.svg",
+                  "type": "Image",
+                  "format": "image/svg+xml"
+              }
+          ]
+      }
+  ],
+  "requiredStatement": {
+      "label": {
+          "fr": [ "Droits" ]
+      },
+      "value": {
+          "fr": [ "<span>Domaine public, avec citation obligatoire.</span>" ]
+      }
   },
   "items": [
     {

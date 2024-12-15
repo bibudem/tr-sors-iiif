@@ -1,38 +1,38 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://bibudem.github.io/tresors-iiif/manifests/.json",
+    "id": "https://bibudem.github.io/tresors-iiif/manifests/798887684.json",
     "type": "Manifest",
     "label": { "fr":
-        [ "" ] },
+        [ "[Livre de prières en innu]" ] },
     "behavior":  [ "paged" ],
     "metadata": [
         {
             "label": { "fr": [ "Auteur" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "La Brosse, Jean Baptiste de" ] }
         },
         {
             "label": { "fr": [ "Titre" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Nehiro-iriniui aiamihe massinahigan, Shatshegutsh, Mitinekapitsh, Iskuamiskutsh, Netshekatsh, Misht', Assinitsh, Shekutimitsh, Ekuanatsh, Ashuabmushuanitsh, Piakuagamitsh : gaie missi missi nehiro-iriniui astshitsh ka tatjits, ka kueiasku aiamihatjits ka utshi" ] }
         },
         {
             "label": { "fr": [ "Éditeur" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Massinahitsetuau, Broun gaie Girmor" ] }
         },
         {
             "label": { "fr": [ "Date de publication" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "1767" ] }
         },
         {
             "label": { "fr": [ "Collection" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Collection Louis-François-Georges-Baby" ] }
         },
         {
             "label": { "fr": [ "Localisation" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "BLCS - Collection Baby RES-B - Consultation sur place" ] }
         },
         {
             "label": { "fr": [ "Cote" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "BAb0437" ] }
         }
     ],
     "provider": [

@@ -1,38 +1,34 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://bibudem.github.io/tresors-iiif/manifests/.json",
+    "id": "https://bibudem.github.io/tresors-iiif/manifests/53530437.json",
     "type": "Manifest",
     "label": { "fr":
-        [ "" ] },
+        [ "[Arrest de censure la Cour du Parlement]" ] },
     "behavior":  [ "paged" ],
     "metadata": [
         {
             "label": { "fr": [ "Auteur" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "France. Parlement (Paris)" ] }
         },
         {
             "label": { "fr": [ "Titre" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Arrest de la Cour du Parlement qui condamne un écrit initialé : Le Monarque accompli, etc. [de Maître de Languinais] à être lacéré et brûlé au pied du grand escalier du Palais, par l'exécuteur de la Haute-Justice" ] }
         },
         {
             "label": { "fr": [ "Éditeur" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Simon" ] }
         },
         {
             "label": { "fr": [ "Date de publication" ] },
-            "value": { "fr": [ "" ] }
-        },
-        {
-            "label": { "fr": [ "Collection" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "1776" ] }
         },
         {
             "label": { "fr": [ "Localisation" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "BLCS - Collection générale CSB RES-P - Consultation sur place" ] }
         },
         {
             "label": { "fr": [ "Cote" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "098.12 F815a" ] }
         }
     ],
     "provider": [

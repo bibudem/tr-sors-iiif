@@ -1,38 +1,34 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://bibudem.github.io/tresors-iiif/manifests/.json",
+    "id": "https://bibudem.github.io/tresors-iiif/manifests/50335781.json",
     "type": "Manifest",
     "label": { "fr":
-        [ "" ] },
+        [ "[Estampes représentant les principaux événements de l'histoire]" ] },
     "behavior":  [ "paged" ],
     "metadata": [
         {
             "label": { "fr": [ "Auteur" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Merian, Matthaeus" ] }
         },
         {
             "label": { "fr": [ "Titre" ] },
-            "value": { "fr": [ "" ] }
-        },
-        {
-            "label": { "fr": [ "Éditeur" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Recueil de trois cents [sic] trente estampes représentant les principaux évènements de l'histoire ancienne et moderne, sacrée et profane" ] }
         },
         {
             "label": { "fr": [ "Date de publication" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "1788" ] }
         },
         {
             "label": { "fr": [ "Collection" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Collection Philippe-Alexandre-Rey-Herme" ] }
         },
         {
             "label": { "fr": [ "Localisation" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "BLCS-Collection Rey-Herme RES-RH - Consultation sur place" ] }
         },
         {
             "label": { "fr": [ "Cote" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "REYHERME 5800" ] }
         }
     ],
     "provider": [

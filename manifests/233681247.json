@@ -1,11 +1,57 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://bibudem.github.io/tresors-iiif/manifests/233681247.json",
+  "id": "https://bibudem.github.io/tresors-iiif/manifests/.json",
   "type": "Manifest",
-  "label": {
-    "fr": [
-      "233681247"
-    ]
+  "label": { "fr":
+      [ "[Reconnaissance de féodalité faite à Philippe, duc de Bourgogne]" ] },
+  "behavior":  [ "paged" ],
+  "metadata": [
+      {
+          "label": { "fr": [ "Titre" ] },
+          "value": { "fr": [ "Phelippe duc de Bourgoingne conte de Flandres d'Artois de Bourgoingne palatin et de Namur seigneur de Salines et de Malines. A tous ceulx qui ces p[rese]ntes l[ett]res verront salut. Savoir faisons que n[ot]re ame et feal escuier descuerie Henry Reiset s'est advoue devenu et rendu n[ot]re homme feodal et liege comme conte et a cause de n[ot]re d[it] conte de Bourg[oing]ne et nous a fait foy et hommaige lieges de ses chastel terre et seigneurie de Saint-Loup ..." ] }
+      },
+      {
+          "label": { "fr": [ "Date de publication" ] },
+          "value": { "fr": [ "1429" ] }
+      },
+      {
+          "label": { "fr": [ "Localisation" ] },
+          "value": { "fr": [ "BLCS - Manuscrits MAB SEM-B - Consultation sur place" ] }
+      },
+      {
+          "label": { "fr": [ "Cote" ] },
+          "value": { "fr": [ "DC 611 B78 P44 1429" ] }
+      }
+  ],
+  "provider": [
+      {
+          "id": "https://bib.umontreal.ca",
+          "type": "Agent",
+          "label": { "fr": [ "Les bibliothèques de l'Université de Montréal" ] },
+          "homepage": [
+              {
+                  "id": "https://bib.umontreal.ca",
+                  "type": "Text",
+                  "label": { "fr": [ "Site web" ] },
+                  "format": "text/html"
+              }
+          ],
+          "logo": [
+              {
+                  "id": "https://www.bib.umontreal.ca/publications/rapport-annuel-2023-2024/images/Sceau_logo-Biblio_UdeM-RVB.svg",
+                  "type": "Image",
+                  "format": "image/svg+xml"
+              }
+          ]
+      }
+  ],
+  "requiredStatement": {
+      "label": {
+          "fr": [ "Droits" ]
+      },
+      "value": {
+          "fr": [ "<span>Domaine public, avec citation obligatoire.</span>" ]
+      }
   },
   "items": [
     {

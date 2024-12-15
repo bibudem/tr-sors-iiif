@@ -1,38 +1,38 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://bibudem.github.io/tresors-iiif/manifests/.json",
+    "id": "https://bibudem.github.io/tresors-iiif/manifests/869511130.json",
     "type": "Manifest",
     "label": { "fr":
-        [ "" ] },
+        [ "Historiæ canadensis […]" ] },
     "behavior":  [ "paged" ],
     "metadata": [
         {
             "label": { "fr": [ "Auteur" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Du Creux, François" ] }
         },
         {
             "label": { "fr": [ "Titre" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Historiæ canadensis : sev Novæ-Franciæ libri decem, ad annum vsque Christi MDCLVI" ] }
         },
         {
             "label": { "fr": [ "Éditeur" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Apud Sebastianvm Cramoisy, et Sebast. Mabre-Cramoisy, typographos regis, viâ lacobæâ, sub Ciconijs" ] }
         },
         {
             "label": { "fr": [ "Date de publication" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "1664" ] }
         },
         {
             "label": { "fr": [ "Collection" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Collection Louis-François-Georges-Baby" ] }
         },
         {
             "label": { "fr": [ "Localisation" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "BLCS - Collection Baby RES-B - Consultation sur place" ] }
         },
         {
             "label": { "fr": [ "Cote" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "BAc0236" ] }
         }
     ],
     "provider": [

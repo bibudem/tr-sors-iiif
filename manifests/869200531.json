@@ -2,10 +2,64 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://bibudem.github.io/tresors-iiif/manifests/869200531.json",
   "type": "Manifest",
-  "label": {
-    "fr": [
-      "869200531"
-    ]
+  "label": { "fr":
+      [ "[Diplôme de doctorat en droit de l'Université de Padoue]" ] },
+  "behavior":  [ "paged" ],
+  "metadata": [
+      {
+          "label": { "fr": [ "Auteur" ] },
+          "value": { "fr": [ "Scolari, Jean Dominique" ] }
+      },
+      {
+          "label": { "fr": [ "Titre" ] },
+          "value": { "fr": [ "Universis & singulis praesens hoc publicum Doctorat Privilegi um uisuris, lecturis, seù legi audituris Nos Vincentius Bonifacius ... D. Io. Dominicum Scolari " ] }
+      },
+      {
+          "label": { "fr": [ "Éditeur" ] },
+          "value": { "fr": [ "[Sacri Collegij Philos. & Medico]" ] }
+      },
+      {
+          "label": { "fr": [ "Date de publication" ] },
+          "value": { "fr": [ "1699" ] }
+      },
+      {
+          "label": { "fr": [ "Localisation" ] },
+          "value": { "fr": [ "BLCS - Manuscrits MAB SEM-B - Consultation sur place " ] }
+      },
+      {
+          "label": { "fr": [ "Cote" ] },
+          "value": { "fr": [ "BR 1725 S38 1699" ] }
+      }
+  ],
+  "provider": [
+      {
+          "id": "https://bib.umontreal.ca",
+          "type": "Agent",
+          "label": { "fr": [ "Les bibliothèques de l'Université de Montréal" ] },
+          "homepage": [
+              {
+                  "id": "https://bib.umontreal.ca",
+                  "type": "Text",
+                  "label": { "fr": [ "Site web" ] },
+                  "format": "text/html"
+              }
+          ],
+          "logo": [
+              {
+                  "id": "https://www.bib.umontreal.ca/publications/rapport-annuel-2023-2024/images/Sceau_logo-Biblio_UdeM-RVB.svg",
+                  "type": "Image",
+                  "format": "image/svg+xml"
+              }
+          ]
+      }
+  ],
+  "requiredStatement": {
+      "label": {
+          "fr": [ "Droits" ]
+      },
+      "value": {
+          "fr": [ "<span>Domaine public, avec citation obligatoire.</span>" ]
+      }
   },
   "items": [
     {

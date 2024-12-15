@@ -1,38 +1,34 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://bibudem.github.io/tresors-iiif/manifests/.json",
+    "id": "https://bibudem.github.io/tresors-iiif/manifests/869200531.json",
     "type": "Manifest",
     "label": { "fr":
-        [ "" ] },
+        [ "[Diplôme de doctorat en droit de l'Université de Padoue]" ] },
     "behavior":  [ "paged" ],
     "metadata": [
         {
             "label": { "fr": [ "Auteur" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Scolari, Jean Dominique" ] }
         },
         {
             "label": { "fr": [ "Titre" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "Universis & singulis praesens hoc publicum Doctorat Privilegi um uisuris, lecturis, seù legi audituris Nos Vincentius Bonifacius ... D. Io. Dominicum Scolari " ] }
         },
         {
             "label": { "fr": [ "Éditeur" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "[Sacri Collegij Philos. & Medico]" ] }
         },
         {
             "label": { "fr": [ "Date de publication" ] },
-            "value": { "fr": [ "" ] }
-        },
-        {
-            "label": { "fr": [ "Collection" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "1699" ] }
         },
         {
             "label": { "fr": [ "Localisation" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "BLCS - Manuscrits MAB SEM-B - Consultation sur place " ] }
         },
         {
             "label": { "fr": [ "Cote" ] },
-            "value": { "fr": [ "" ] }
+            "value": { "fr": [ "BR 1725 S38 1699" ] }
         }
     ],
     "provider": [
