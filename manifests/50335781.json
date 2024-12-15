@@ -7,6 +7,7 @@
       "[Estampes représentant les principaux événements de l'histoire]"
     ]
   },
+  "behavior":  [ "paged" ],
   "metadata": [
       {
           "label": { "fr": [ "Auteur" ] },
