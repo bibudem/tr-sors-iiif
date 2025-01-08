@@ -28,13 +28,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p001/full/max/0/default.jpg",
+                "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p001/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 5100,
                 "width": 3847,
                 "service": [
                   {
-                    "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p001",
+                    "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p001",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -67,13 +67,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p002/full/max/0/default.jpg",
+                "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p002/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 5188,
                 "width": 3847,
                 "service": [
                   {
-                    "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p002",
+                    "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p002",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -106,13 +106,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p003/full/max/0/default.jpg",
+                "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p003/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 5100,
                 "width": 3847,
                 "service": [
                   {
-                    "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p003",
+                    "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p003",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -145,13 +145,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p004/full/max/0/default.jpg",
+                "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p004/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 5188,
                 "width": 3847,
                 "service": [
                   {
-                    "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p004",
+                    "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p004",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -184,13 +184,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p005/full/max/0/default.jpg",
+                "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p005/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 5100,
                 "width": 3847,
                 "service": [
                   {
-                    "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p005",
+                    "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p005",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -223,13 +223,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p006/full/max/0/default.jpg",
+                "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p006/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 5188,
                 "width": 3847,
                 "service": [
                   {
-                    "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p006",
+                    "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p006",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -262,13 +262,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p007/full/max/0/default.jpg",
+                "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p007/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 5100,
                 "width": 3847,
                 "service": [
                   {
-                    "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p007",
+                    "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p007",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -301,13 +301,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p008/full/max/0/default.jpg",
+                "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p008/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 5188,
                 "width": 3847,
                 "service": [
                   {
-                    "id": "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p008",
+                    "id": "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p008",
                     "type": "ImageService3",
                     "profile": "level2"
                   }

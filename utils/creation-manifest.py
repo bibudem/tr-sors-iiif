@@ -5,7 +5,7 @@ import sys
 from iiif_prezi3 import Manifest, config
 
 # Quelques variables utiles
-iiif_server_base_url = "https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/"
+iiif_server_base_url = "https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/"
 manifest_base_id = "https://bibudem.github.io/tresors-iiif/manifests/"
 fichier_dossiers = "dossiers.txt"
 fichier_fichiers = "fichiers_tile.txt"

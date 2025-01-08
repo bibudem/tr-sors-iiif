@@ -5,91 +5,91 @@ Création des manifests
     174 images TIFF LZM
     174 images IIIF
     174 images dans le manifest
-    https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/50335781_p001/info.json
+    https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/50335781_p001/info.json
 
 
 53513658
     737 images TIFF LZW
     737 images IIIF
     737 images dans le manifest
-    https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53513658_p500/info.json
+    https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53513658_p500/info.json
 
 
 53530437
     8 images TIFF LZW
     8 images IIIF
     8 images dans le manifest
-    https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p002/info.json
+    https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53530437_p002/info.json
 
 53546282
     280 images TIFF LZW
     280 images IIIF
     280 images dans le manifestPas sur le serveur (bloque à partir de p025)
-    https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53546282_p001/info.json
+    https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53546282_p001/info.json
 
 53699008
     463 images TIFF LZW
     463 images IIIF
     463 images dans le manifest
-        https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/53699008_p026/info.json
+        https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/53699008_p026/info.json
 
 233681247
     1 image TIFF LZW
     1 image IIIF
     1 image dans le manifest
-        https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/233681247_p001/info.json
+        https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/233681247_p001/info.json
 
 798887684
     104 images TIFF LZW
     104 images IIIF
     104 images dans le manifest
-        https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/798887684_p001/info.json
+        https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/798887684_p001/info.json
 
 843132948
     232 images TIFF LZW
     232 images IIIF
     232 images dans le manifest
-        https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/843132948_p001/info.json
+        https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/843132948_p001/info.json
 
 868922766
     392 images TIFF LZW
     392 images IIIF
     392 images dans le manifest
-        https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/868922766_p001/info.json
+        https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/868922766_p001/info.json
 
 868935875
     272 images TIFF LZW
     272 images IIIF
     272 images dans le manifest
-        https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/868935875_p001/info.json
+        https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/868935875_p001/info.json
 
 869040928
     368 images TIFF LZW
     368 images IIIF
     368 images dans le manifest
-       https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/869040928_p001/info.json 
+       https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/869040928_p001/info.json 
 
 869200531
     10 images TIFF LZW
     10 images IIIF
     10 images dans le manifest
-        https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/869200531_p002/info.json
+        https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/869200531_p002/info.json
 
 869379578
     590 images TIFF LZW
     590 images IIIF
     Seulement 32 images dans fichiers_tile.txt, donc les autres pas traitées
         Erreurs vips
-        https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/869379578_p454/info.json
+        https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/869379578_p454/info.json
 
 869387060
     316 images TIFF LZW
     316 images IIIF
     316 images dans le manifest
-        https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/869387060_p001/info.json
+        https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/869387060_p001/info.json
 
 869511130
     880 images TIFF LZW
     880 images IIIF
     880 images dans le manifest
-        https://pvj5vvaturp6mtjbgb55ug76eq0fokec.lambda-url.ca-central-1.on.aws/iiif/3/869511130_p001/info.json     
+        https://vpqygo32g6zmtk7ym4nh7yh3pq0dyykl.lambda-url.ca-central-1.on.aws/iiif/3/869511130_p001/info.json     
